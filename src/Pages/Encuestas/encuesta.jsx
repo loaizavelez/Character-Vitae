@@ -1,7 +1,8 @@
 import "encuesta.css";  
 
-function Encuesta({
-        Return 
-
-
-}) {        
+function Encuestas(){
+    return (<>
+        <h1>Encuestas</h1>
+    </>);
+}
+export default Encuestas;     
